@@ -1,0 +1,4 @@
+User Agent: *
+allow: index.html
+allow: contact.html
+sitemap: C:\Users\Nmat23\Desktop\Twinkle\sitemap.xml
